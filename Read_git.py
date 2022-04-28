@@ -4,4 +4,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/SumukhaS291299/FinalSemProj/
 
 print(df)
 
-# print(df['Aux4'].tolist())
+NamesList=df.loc[df['patientName'] == 'A']
+
+
+
+print(NamesList)

@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="All files update with new file">
-      <change afterPath="$PROJECT_DIR$/LastUpdate.py" afterDir="false" />
+    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Alled Updated folder">
+      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/101" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/102" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/103" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/104" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/105" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Detais/107" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,17 +146,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalSemProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Temp" />
       <item itemvalue="Python.FinalSemProj" />
       <item itemvalue="Python.ProduceIndividual" />
       <item itemvalue="Python.LastUpdate" />
       <item itemvalue="Python.ProduceIndividual (1)" />
+      <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.LastUpdate" />
         <item itemvalue="Python.ProduceIndividual (1)" />
+        <item itemvalue="Python.temp" />
         <item itemvalue="Python.ProduceIndividual" />
       </list>
     </recent_temporary>
@@ -206,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651142906413</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Alled Updated folder">
+      <created>1651145043675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651145043675</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Alled Updated folder">
+      <created>1651145056415</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651145056416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +254,7 @@
     <MESSAGE value="Changed Details.csv" />
     <MESSAGE value="Changed name Details.csv" />
     <MESSAGE value="All files update with new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files update with new file" />
+    <MESSAGE value="Alled Updated folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alled Updated folder" />
   </component>
 </project>

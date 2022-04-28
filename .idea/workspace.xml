@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Files auto updated !!">
+    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Updated Details.csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.LastUpdate">
+  <component name="RunManager" selected="Python.ProduceIndividual (1)">
     <configuration name="FinalSemProj" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="FinalSemProj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,8 +178,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LastUpdate" />
         <item itemvalue="Python.ProduceIndividual (1)" />
+        <item itemvalue="Python.LastUpdate" />
         <item itemvalue="Python.ProduceIndividual" />
         <item itemvalue="Python.temp" />
       </list>
@@ -262,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651146372241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated Details.csv">
+      <created>1651146613303</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651146613303</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,8 +292,8 @@
     <MESSAGE value="All files update with new file" />
     <MESSAGE value="Alled Updated folder" />
     <MESSAGE value="Alled Updated folder updated" />
-    <MESSAGE value="Updated Details.csv" />
     <MESSAGE value="Files auto updated !!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files auto updated !!" />
+    <MESSAGE value="Updated Details.csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Details.csv" />
   </component>
 </project>

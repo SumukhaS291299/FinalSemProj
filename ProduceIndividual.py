@@ -18,6 +18,6 @@ print(currlisID)
 for i in currlisID:
     NamesList = df.loc[df['patientSSID'] == i]
     print(NamesList)
-    saveFIleName = "All_Detais//" +str(i)
+    saveFIleName = "All_Details//" +str(i) +".csv"
     print(saveFIleName)
     NamesList.to_csv(saveFIleName)

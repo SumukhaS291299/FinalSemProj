@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Added book1.csv">
-      <change afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
+    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Added database files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataBase_Entry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/HighlyImportant.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +375,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651755490760</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added database files">
+      <created>1651761290476</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651761290476</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added database files">
+      <created>1651761301607</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651761301607</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +414,7 @@
     <MESSAGE value="Updated Details.csv" />
     <MESSAGE value="Updated file updates" />
     <MESSAGE value="Added book1.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added book1.csv" />
+    <MESSAGE value="Added database files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added database files" />
   </component>
 </project>

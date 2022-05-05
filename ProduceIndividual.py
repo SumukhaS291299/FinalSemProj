@@ -23,4 +23,3 @@ for i in currlisID:
     saveFIleName = "All_Details//" +str(i) +".csv"
     print(saveFIleName)
     NamesList.to_csv(saveFIleName)
-

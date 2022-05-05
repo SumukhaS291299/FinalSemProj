@@ -29,18 +29,16 @@ for filename in os.listdir(directory):
 
         print(sl[0],Pssid[0],Pname[0],Dname[0],v1[0],v2[0],Lati[0],Longi[0])
 
-        str_update = r"INSERT INTO All_Details (Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi) VALUES ("+str(sl[0])+","+str(Pssid[0])+","+str(Pname[0])+","+str(Dname[0])+","+str(v1[0])+","+str(v2[0])+","+str(Lati[0])+","+str(Longi[0])+");"
+        str_update = "INSERT INTO All_Details(Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi) VALUES ("+"'"+str(sl[0])+"','"+str(Pssid[0])+"','"+str(Pname[0])+"','"+str(Dname[0])+"','"+str(v1[0])+"','"+str(v2[0])+"','"+str(Lati[0])+"','"+str(Longi[0])+"');"
 
         print(str_update)
 
         # params =(Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi)
 
-        cur.execute(str_update)
+        cur.execute(str_update)  #inverted comma is taking str() alsso as string
         conn.commit()
         # conn.close()
 print(cur.fetchall())
 conn.close()
-# All are string convertd
 
-
-# conn.execute()
+# NICE

@@ -7,6 +7,8 @@
     <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Added database files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataBase_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/ImportantDeatils.db" beforeDir="false" afterPath="$PROJECT_DIR$/Database/ImportantDeatils.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -389,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651761301607</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added database files">
+      <created>1651765631789</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651765631789</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

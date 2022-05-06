@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Added database files">
+    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Database code and DB added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataBase_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/ImportantDeatils.db" beforeDir="false" afterPath="$PROJECT_DIR$/Database/ImportantDeatils.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/ImportantDeatils.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Details.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651765631789</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Database code and DB added">
+      <created>1651767073678</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651767073678</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,6 +431,7 @@
     <MESSAGE value="Updated file updates" />
     <MESSAGE value="Added book1.csv" />
     <MESSAGE value="Added database files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added database files" />
+    <MESSAGE value="Database code and DB added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database code and DB added" />
   </component>
 </project>

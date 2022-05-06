@@ -3,13 +3,15 @@ import sqlite3
 import pandas as pd
 import sqlite3
 
+os.remove("D://FinalSemProj//Database//ImportantDeatils.db")
+
 conn = sqlite3.connect('Database//ImportantDeatils.db')
 
 cur = conn.cursor()
 
 # Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi
 directory = "Updated_Details"
-# conn.execute("CREATE TABLE All_Details (Slno varchar(10), patientSSID varchar(10) primary key ,patientName varchar(20),doctorName varchar(40),val1 varchar(100),val2 varchar(100) ,lati varchar(10),longi varchar(10)); ")
+conn.execute("CREATE TABLE All_Details (Slno varchar(10), patientSSID varchar(10) primary key ,patientName varchar(20),doctorName varchar(40),val1 varchar(100),val2 varchar(100) ,lati varchar(10),longi varchar(10)); ")
 
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
@@ -41,4 +43,7 @@ for filename in os.listdir(directory):
 print(cur.fetchall())
 conn.close()
 
+
 # NICE
+
+# I can delete DOne Its not now problem :)

@@ -24,4 +24,3 @@ for i in currlisID:
     print(saveFIleName)
     NamesList.to_csv(saveFIleName)
 
-# What tell me againn where >?

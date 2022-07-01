@@ -11,6 +11,14 @@ while True:
         except OSError:
             file.seek(0)
         last_line = file.readline().decode()
-        if prev_line != last_line:
+        if last_line.__contains__("||"):
+            continue
+        elif prev_line != last_line:
             print(last_line)
+            f = open("C://Users//User//Desktop//FinalTestRecord.txt", "a")
+            f.write(last_line+"\n")
+            f.close()
+        else:
+            continue
+
         prev_line = last_line

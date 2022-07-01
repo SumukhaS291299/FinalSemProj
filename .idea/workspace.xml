@@ -5,10 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Updated FileReader.csv">
+      <change afterPath="$PROJECT_DIR$/PrePrpocessor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/100.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/102.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/104.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/105.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/107.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/120.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/All_Details/98.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataBase_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/ImportantDeatils.db" beforeDir="false" afterPath="$PROJECT_DIR$/Database/ImportantDeatils.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadTextFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReadTextFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/100.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/102.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/104.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/105.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/107.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/120.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Updated_Details/98.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,49 +76,7 @@
       <recent name="D:\FinalSemProj" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ProduceIndividual (1)">
-    <configuration name="DataBase_Entry (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FinalSemProj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataBase_Entry.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DataBase_Entry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FinalSemProj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\FinalSemProj\DataBase_Entry.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PrePrpocessor">
     <configuration name="DataBase_Insert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FinalSemProj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +132,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LastUpdate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrePrpocessor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalSemProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PrePrpocessor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,20 +227,19 @@
     <list>
       <item itemvalue="Python.Temp" />
       <item itemvalue="Python.FinalSemProj" />
-      <item itemvalue="Python.DataBase_Entry" />
+      <item itemvalue="Python.PrePrpocessor" />
       <item itemvalue="Python.ReadTextFile" />
       <item itemvalue="Python.DataBase_Insert" />
-      <item itemvalue="Python.DataBase_Entry (1)" />
       <item itemvalue="Python.LastUpdate" />
       <item itemvalue="Python.ProduceIndividual (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ProduceIndividual (1)" />
-        <item itemvalue="Python.DataBase_Insert" />
+        <item itemvalue="Python.PrePrpocessor" />
         <item itemvalue="Python.ReadTextFile" />
+        <item itemvalue="Python.DataBase_Insert" />
         <item itemvalue="Python.LastUpdate" />
-        <item itemvalue="Python.DataBase_Entry (1)" />
+        <item itemvalue="Python.ProduceIndividual (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655226155380</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updated FileReader.csv">
+      <created>1655494478293</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1655494478293</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -32,15 +32,15 @@ for filename in os.listdir(directory):
         v4 = df["RainStats"].tolist()
 
 
-        print(sl[0],Pssid[0],Pname[0],Dname[0],v1[0],v2[0],Lati[0],Longi[0])
+        print(sl[0],Pssid[0],Pname[0],Dname[0],v1[0],v2[0],Lati[0],Longi[0],v3[0],v4[0])
 
-        str_update = "INSERT INTO All_Details(Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi,RainInten,RainStats) VALUES ("+"'"+str(sl[0])+"','"+str(Pssid[0])+"','"+str(Pname[0])+"','"+str(Dname[0])+"','"+str(v1[0])+"','"+str(v2[0])+"','"+str(Lati[0])+"','"+str(Longi[0])+",'"+str(v3[0])+"','"+str(v4[0])+"',');"
+        str_update = "INSERT INTO All_Details(Slno,patientSSID,patientName,doctorName,heartR,AirQuality,lati,longi,RainInten,RainStats) VALUES ("+"'"+str(sl[0])+"','"+str(Pssid[0])+"','"+str(Pname[0])+"','"+str(Dname[0])+"','"+str(v1[0])+"','"+str(v2[0])+"','"+str(Lati[0])+"','"+str(Longi[0])+"','"+str(v3[0])+"','"+str(v4[0])+"');"
 
         print(str_update)
 
         # params =(Slno,patientSSID,patientName,doctorName,val1,val2,lati,longi)
 
-        cur.execute(str_update)  #inverted comma is taking str() alsso as string
+        cur.execute(str_update)
         conn.commit()
         # conn.close()
 print(cur.fetchall())

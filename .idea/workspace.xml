@@ -4,40 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Updated FileReader.csv">
-      <change afterPath="$PROJECT_DIR$/PrePrpocessor.py" afterDir="false" />
+    <list default="true" id="88c1264d-771e-4682-bee7-455f5f3aaf55" name="Changes" comment="Updated Files and Values">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/100.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/101.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/102.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/104.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/105.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/50.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/76.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/87.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All_Details/98.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataBase_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase_Insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/ImportantDeatils.db" beforeDir="false" afterPath="$PROJECT_DIR$/Database/ImportantDeatils.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Details.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProduceIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProduceIndividual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadTextFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReadTextFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/100.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/101.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/102.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/104.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/105.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/50.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/76.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/87.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Updated_Details/98.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -441,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655494478293</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updated Files and Values">
+      <created>1656695146933</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656695146933</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,6 +445,7 @@
     <MESSAGE value="Database code and DB added" />
     <MESSAGE value="Updated Details.csv" />
     <MESSAGE value="Updated FileReader.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated FileReader.csv" />
+    <MESSAGE value="Updated Files and Values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Files and Values" />
   </component>
 </project>
